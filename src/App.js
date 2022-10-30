@@ -42,12 +42,15 @@ const App = () => {
 		<>
 		<div className='container-fluid movie-app'>
 			<div className='column d-flex align-items-center mt-4 mb-4'>
+		<div className='column d-flex align-items-center mt-4'>
 				<MovieListHeading heading='Movies' />
 				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
 			</div>
 			<div className='row'>
+				<div className='column d-flex align-items-center mt-4'>
 				<MovieList movies={movies} />
 			</div>
+</div>
 		</div>
 		</>
 	);
