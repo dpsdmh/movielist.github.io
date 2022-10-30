@@ -46,7 +46,7 @@ const App = () => {
 				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
 			</div>
 			<div className='row'>
-				<div className='column d-flex align-items-center mt-4 mb-4'>
+				<div className='column d-flex mt-4 mb-4'>
 				<MovieList movies={movies} />
 			</div>
 </div>
