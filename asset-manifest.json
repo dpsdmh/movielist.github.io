@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ada17e00.css",
-    "main.js": "/static/js/main.5b5e95fb.js",
-    "static/js/787.dfba6593.chunk.js": "/static/js/787.dfba6593.chunk.js",
-    "index.html": "/index.html",
-    "main.ada17e00.css.map": "/static/css/main.ada17e00.css.map",
-    "main.5b5e95fb.js.map": "/static/js/main.5b5e95fb.js.map",
-    "787.dfba6593.chunk.js.map": "/static/js/787.dfba6593.chunk.js.map"
+    "main.css": "/movielist.github.io/static/css/main.ada17e00.css",
+    "main.js": "/movielist.github.io/static/js/main.f20572af.js",
+    "static/js/787.dfba6593.chunk.js": "/movielist.github.io/static/js/787.dfba6593.chunk.js",
+    "index.html": "/movielist.github.io/index.html",
+    "main.ada17e00.css.map": "/movielist.github.io/static/css/main.ada17e00.css.map",
+    "main.f20572af.js.map": "/movielist.github.io/static/js/main.f20572af.js.map",
+    "787.dfba6593.chunk.js.map": "/movielist.github.io/static/js/787.dfba6593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ada17e00.css",
-    "static/js/main.5b5e95fb.js"
+    "static/js/main.f20572af.js"
   ]
 }
